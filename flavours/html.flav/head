@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+        "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>$(blog_title) $(pi_da) $(pi_mo) $(pi_yr)</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<style type="text/css" media="print">
+</style>
+<style type="text/css">
+img { border: 0; }
+body {
+    font-family: helvetica, "helvetica neue", arial, verdana, sans-serif;
+    color: #333;
+    background: #fff;
+	line-height: 1.4;	
+}
+h1,h2,h3,h4,h5,h6 {
+    color: #444;
+}
+pre, code {
+    font-family: "DejaVu sans Mono", monaco, consolas, monospace;
+    color: LavenderBlush3;
+}
+pre {
+	overflow: visible;
+}
+blockquote,pre,ol,ul,dl {
+    margin:0;
+    padding:0;
+}
+blockquote {
+    font-family:Palatino, Georgia, serif;
+    font-style:italic;		
+    font-size:1.1em;
+}
+blockquote b {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p,blockquote,pre,ul,ol,dl {
+    /* Random amount of space below paragraphs. Need proper vertical rhythm. */
+    margin-top:0;
+    margin-bottom:1em;
+}
+.content {
+    /* 33em measure for the main column. */
+    width:43em;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3em;
+}
+.entry {
+    /* Use a lot of whitespace to distinguish one entry from the next. */
+    margin-bottom:5em;
+    clear:both;
+}
+.entry .date {
+    width:10em;
+    float:left;
+}
+.entry .content {
+    width:33em;
+    margin-left:10em;
+}
+.entry .title {
+    font-size:1em; /* Don't like oversized headers. */
+    font-weight:bold;
+    margin:0;
+    padding:0;
+}
+.entry .title a {
+    text-decoration:none;
+    color: #444;
+}
+/* Meta is small faded text for any kind of metadata or navigation links etc. */
+.meta {
+    font-size:smaller;
+    margin:0;
+    padding:0;
+}
+.meta, .meta a {
+    color: LightSeaGreen;
+    font-weight:normal;
+}
+
+/* Horizontal rules designed not to get in the way too much. */
+hr {
+	padding: 0;
+	border: 0;
+	border-bottom: solid #ccc 1px;
+	width:50%;
+}
+
+/* Use a serif div if you want to write some fancy readable text. */
+.serif {
+    /* Serif font for the main body text. */
+    font-family:Palatino, Georgia, serif; 
+}
+.serif h1,.serif h2,.serif h3,.serif h4,.serif h5,.serif h6,.serif b,.serif a {
+   /* Sans-serif for emphasised text. */
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+</style>
+</head>
+<body>
+<div class="content">

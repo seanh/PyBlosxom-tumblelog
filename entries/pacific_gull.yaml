@@ -1,0 +1,6 @@
+template_name: picture
+src: http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Larus_pacificus_Bruny_Island.jpg/250px-Larus_pacificus_Bruny_Island.jpg
+caption: >
+    A photo of a <a href="http://en.wikipedia.org/wiki/Pacific_Gull">Pacific Gull</a>
+    from <a href="http://en.wikipedia.org/wiki/Wikipedia:Picture_of
+    _the_day">Wikipedia's Picture of the Day</a>.

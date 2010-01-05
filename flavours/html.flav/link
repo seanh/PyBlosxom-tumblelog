@@ -1,0 +1,9 @@
+<div class="entry link">
+    <div class="date">
+        $(date)
+    </div>
+    <div class="content">
+        <a href="$(url)">$(title)</a><br/>
+        $(comment)
+    </div>
+</div>

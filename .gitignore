@@ -1,0 +1,5 @@
+*~
+*.pyc
+blog.ini
+pyblosxom.cgi
+config.py
