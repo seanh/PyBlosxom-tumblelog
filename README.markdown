@@ -14,7 +14,7 @@ you write entries in the structured markup language [YAML][], and lets
 each entry file specify which entry template it will be rendered with.
 Your flavour dir will contain lots of entry templates, one for each type
 of entry that you use, instead of just one 'story' template per flavour
-as is usual with PyBlosxom.
+as is usual with PyBlosxom. Here is an [example of some PyBlosxom posts rendered using this plugin](http://dl.dropbox.com/u/136038/pyblosxom_tumblelog_plugin.html).
 
 [YAML]: http//yaml.org/
 
