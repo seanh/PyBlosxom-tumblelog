@@ -52,7 +52,7 @@ books, and then make entry files for them. For more examples have a look
 at the example
 [entries](http://github.com/seanh/PyBlosxom-tumblelog/tree/master/entries/)
 and
-[flavour](http://github.com/seanh/PyBlosxom-tumblelog/tree/master/flavours/html.flav/_
+[flavour](http://github.com/seanh/PyBlosxom-tumblelog/tree/master/flavours/html.flav/)
 in this repo.
 
 _The tumblelog plugin was written by seanh with help from willkg._
