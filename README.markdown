@@ -6,8 +6,10 @@ different structures and templates, and all are rendered in one anarchic
 stream. For example, text posts have a title and some body text (like
 normal blog posts), link posts have the url being linked to, the link
 text, and a comment (like in a linklog), picture posts have an image
-file and a caption, etc. You can make up whatever types of post you
-want. For examples, check out tumblelog sites like tumblr.com.
+file and a caption, a microblog post like on twitter or identica is
+just a snippet of text without even a title, etc. You can make up
+whatever types of post you want. For examples, check out tumblelog sites
+like tumblr.com.
 
 This tumblelog plugin is an entryparser plugin for PyBlosxom that lets
 you write entries in the structured markup language [YAML][], and lets
