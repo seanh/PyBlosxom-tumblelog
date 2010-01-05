@@ -47,8 +47,10 @@ and here is the corresponding `link` template from my flavour:
     </div>
 
 as you can see, the template file references the same keys that were
-used in the entry file ('date', 'title' and 'comment'). It's up to you to ensure this correspondence
-between your YAML entry files and their templates. You can
+used in the entry file ('date', 'title' and 'comment'). You can make up
+whatever keys you want and use them in your posts and templates, but
+it's up to you to ensure that your YAML entry files contain the same
+keys as used in their corresponding templates. You can
 make up whatever template files you want: links, quotes, pictures,
 books, and then make entry files for them. For more examples have a look
 at the example
