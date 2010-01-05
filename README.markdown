@@ -46,7 +46,7 @@ and here is the corresponding `link` template from my flavour:
 
 as you can see, the template file references the same keys that were
 used in the entry file. It's up to you to ensure this correspondence
-between your YAML entry files and their corresponding templates. You can
+between your YAML entry files and their templates. You can
 make up whatever template files you want: links, quotes, pictures,
 books, and then make entry files for them. For more examples have a look
 at the example
