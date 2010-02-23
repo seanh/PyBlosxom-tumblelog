@@ -1,12 +1,12 @@
-<div class="entry"> 
-    <div class="date">$(date)</div> 
-    <div class="content"> 
-        <h1 class="title">
-            <a href="$(base_url)/$(urlencode(file_path)).$(flavour)"
-               name="$(title)">
-               $(title)
-            </a>
-        </h1> 
-        $(body)
-    </div> 
+<div class="entry text"> 
+    <h2 class="title">
+        $(title)
+    </h2> 
+    $(body)
+    <div class="date">
+        <a href="$(base_url)/$(urlencode(file_path))">
+            <span class="day">$(da)</span>
+            $(mo) $(yr)
+        </a>
+    </div>
 </div> 

@@ -1,5 +1,7 @@
-<div class="entry link">
-    <a href="$(href)" name="$(title)" title="$(title)">$(title)</a><br>
+<div class="entry text">
+    <h2 class="title">
+        $(title)
+    </h2> 
     $(body)
     <div class="date">
         <a href="$(base_url)/$(urlencode(file_path))">
@@ -7,4 +9,4 @@
             $(mo) $(yr)
         </a>
     </div>
-</div>
+</div> 

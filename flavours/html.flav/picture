@@ -1,9 +1,10 @@
-<div class="entry photo">
+<div class="entry picture">
+    <img src="$(src)" alt="$(title)" title="$(title)">
+    <div class="caption">$(body)</div>
     <div class="date">
-        $(date)
-    </div>
-    <div class="content">
-        <img src="$(src)" alt="$(title)" title="$(title)"/>
-        <p class="caption">$(caption)</p>
+        <a href="$(base_url)/$(urlencode(file_path))">
+            <span class="day">$(da)</span>
+            $(mo) $(yr)
+        </a>
     </div>
 </div>

@@ -1,11 +1,13 @@
 <div class="entry quote">
+    <blockquote>
+       <p>$(quote)</p>
+    </blockquote>
+    $(cite)
+    $(body)
     <div class="date">
-        $(date)
-    </div>
-    <div class="content">
-        <blockquote>
-            <span>$(quote)</span>            
-        </blockquote>        
-        <cite>$(source)</cite>
+        <a href="$(base_url)/$(urlencode(file_path))">
+            <span class="day">$(da)</span>
+            $(mo) $(yr)
+        </a>
     </div>
 </div>

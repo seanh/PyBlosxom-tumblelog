@@ -1,5 +1,5 @@
-<div class="entry link">
-    <a href="$(href)" name="$(title)" title="$(title)">$(title)</a><br>
+<div class="entry video"> 
+    <div style="clear:both;">$(embed)</div>
     $(body)
     <div class="date">
         <a href="$(base_url)/$(urlencode(file_path))">
@@ -7,4 +7,4 @@
             $(mo) $(yr)
         </a>
     </div>
-</div>
+</div> 
