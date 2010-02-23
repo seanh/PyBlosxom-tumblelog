@@ -2,10 +2,9 @@ A Tumblelog Plugin for PyBlosxom
 ================================
 
 This is an entryparser plugin that handles several types of entry file:
-*.text, *.link, *.quote, *.picture, *.video. A file format is defined
-for each new entry type, these are simple and inspired by PyBlosxom's
-default file format. See `entries/` for examples of the tumblelog file
-formats in use.
+`*.text`, `*.link`, `*.quote`, `*.picture`, `*.video`. A file format is defined
+for each new entry type, these are simple and inspired by PyBlosxom's default
+file format. See `entries/` for examples of the tumblelog file formats in use.
 
 Instead of using the `story` template each type of entry is rendered
 with its own template: `text`, `link`, `quote`, `picture`, `video`. See
