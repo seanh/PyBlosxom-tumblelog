@@ -3,6 +3,11 @@
 
 TODO
 
+*   Use pyblosxom's callback system to support tumblelog entry parsers.
+    I think the markdown processing could be extracted into a separate
+    plugin using the cb_preformat or cb_postformat callbacks. This
+    plugin may need to call those callbacks.
+
 *   Improve the HTML templates, make sure they're valid HTML and CSS and use
     the relevant HTML features.
 
